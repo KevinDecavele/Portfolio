@@ -10,9 +10,9 @@
     "url": "https://github.com/microsoft/web-dev-for-beginners"
   },
   {
-    "title": "My Resume Site",
-    "description": "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    "url": "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website"
+    "title": "Mijn CV",
+    "description": "Een document dat al mijn ervaring en skills bundelt.",
+    "url": "https://github.com/KevinDecavele/CV/blob/48d736af0be4e9685558426f93c75e8897cb8b3d/CV%20Decavele%202025.pdf"
   },
   {
     "title": "GitHub Codespaces and github.dev",
