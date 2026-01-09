@@ -1,7 +1,7 @@
 [
   {
-    "title": "10 Things To Know About Azure Static Web Apps 🎉",
-    "description": "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
+    "title": "Placeholder link voor gemaakte game in unity",
+    "description": "beschrijving van roguelite.",
     "url": "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i"
   },
   {
@@ -12,16 +12,11 @@
   {
     "title": "Mijn CV",
     "description": "Een document dat al mijn ervaring en skills bundelt.",
-    "url": "https://github.com/KevinDecavele/CV/blob/48d736af0be4e9685558426f93c75e8897cb8b3d/CV%20Decavele%202025.pdf"
+    "url": "https://raw.githubusercontent.com/KevinDecavele/CV/48d736af0be4e9685558426f93c75e8897cb8b3d/CV%20Decavele%202025.pdf"
   },
   {
     "title": "GitHub Codespaces and github.dev",
     "description": "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
     "url": "https://www.youtube.com/watch?v=c3hHhRME_XI"
-  },
-  {
-    "title": "Mijn CV",
-    "description": "Een document dat al mijn ervaring en skills bundelt.",
-    "url": "https://github.com/KevinDecavele/CV/blob/48d736af0be4e9685558426f93c75e8897cb8b3d/CV%20Decavele%202025.pdf"
   }
 ]
