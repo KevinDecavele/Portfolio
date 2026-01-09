@@ -18,5 +18,10 @@
     "title": "GitHub Codespaces and github.dev",
     "description": "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
     "url": "https://www.youtube.com/watch?v=c3hHhRME_XI"
+  },
+  {
+    "title": "Mijn CV",
+    "description": "Een document dat al mijn ervaring en skills bundelt.",
+    "url": "https://github.com/KevinDecavele/CV/blob/48d736af0be4e9685558426f93c75e8897cb8b3d/CV%20Decavele%202025.pdf"
   }
 ]
