@@ -1,7 +1,7 @@
 [
   {
-    "title": "Link to a game i made in unity",
-    "description": "A roguelite turnbased survival zombie game.",
+    "title": "A game i made in unity",
+    "description": "A roguelite turnbased survival zombie game. Made in unity with C#. Controls: arrow keys to move t to wait a turn, enjoy!",
     "url": "https://play.unity.com/api/v1/games/game/54dbbcc6-cc54-4c58-a524-745a6c460949/build/latest/frame"
   },
   {
@@ -10,8 +10,8 @@
     "url": "https://github.com/microsoft/web-dev-for-beginners"
   },
   {
-    "title": "Mijn CV",
-    "description": "Een document dat al mijn ervaring en skills bundelt.",
+    "title": "My Resume / CV",
+    "description": "A document that bundles all my experience and skills.",
     "url": "https://docs.google.com/viewer?url=https://raw.githubusercontent.com/KevinDecavele/CV/48d736af0be4e9685558426f93c75e8897cb8b3d/CV%20Decavele%202025.pdf"
   },
   {
