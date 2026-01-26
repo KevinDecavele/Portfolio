@@ -9,16 +9,17 @@
     "title": "A To-Do List web app",
     "description": "a windows style to-do list app using CURD functions made with C#.",
     "url": "https://github.com/KevinDecavele/To-Do-List-App"
-  },
-    {
-    "title": "A game i made in unity",
-    "description": "A roguelite turnbased survival zombie game. Made in unity with C#. Controls: arrow keys to move t to wait a turn, enjoy!",
-    "url": "https://play.unity.com/api/v1/games/game/54dbbcc6-cc54-4c58-a524-745a6c460949/build/latest/frame"
   }
 ,
   {
-    "title": "GitHub Codespaces and github.dev",
-    "description": "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    "url": "https://www.youtube.com/watch?v=c3hHhRME_XI"
+    "title": "A Pokertournament Manager App with blind structures.",
+    "description": "A web app to manage poker tournaments with blind structures.",
+    "url": "https://github.com/KevinDecavele/Poker-clock"
+  }
+,
+  {
+    "title": "A game i made in unity",
+    "description": "A roguelite turnbased survival zombie game. Made in unity with C#. Controls: arrow keys to move t to wait a turn, enjoy!",
+    "url": "https://play.unity.com/api/v1/games/game/54dbbcc6-cc54-4c58-a524-745a6c460949/build/latest/frame"
   }
 ]
