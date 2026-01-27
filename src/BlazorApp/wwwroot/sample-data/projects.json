@@ -19,7 +19,7 @@
 ,
   {
     "title": "A game i made in unity",
-    "description": "A roguelite turnbased survival zombie game.\n Made in unity with C#.\n Controls: arrow keys to move t to wait a turn, enjoy!",
+    "description": "A roguelite turnbased survival zombie game.<br/> Made in unity with C#.<br/> Controls: arrow keys to move t to wait a turn, enjoy!",
     "url": "https://play.unity.com/api/v1/games/game/54dbbcc6-cc54-4c58-a524-745a6c460949/build/latest/frame"
   }
 ]
